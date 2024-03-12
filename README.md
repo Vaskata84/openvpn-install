@@ -14,4 +14,4 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 
 ### Donations
 
-If you want to show your appreciation, you can donate via [PayPal](vasil.dobchev@gmail.com). Thanks!
+If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=VASPK43FDSCGU). Thanks!
