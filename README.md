@@ -11,7 +11,3 @@ Run the script and follow the assistant:
 `wget https://github.com/Vaskata84/openvpn-install/blob/master/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh`
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
-
-### Donations
-
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=VASPK43FDSCGU). Thanks!
